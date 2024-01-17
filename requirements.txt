@@ -1,5 +1,11 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+# catboost this package has build issue
+xgboost
 # below line automatically trigger for building setup.py 
--e .
+# to do a pip install of a python package, comment the below line as this will avoid building the package
+# Package can be build at the end
+# -e .
