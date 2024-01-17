@@ -1,0 +1,5 @@
+pandas
+numpy
+seaborn
+# below line automatically trigger for building setup.py 
+-e .
